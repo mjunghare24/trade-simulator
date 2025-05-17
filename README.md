@@ -17,10 +17,8 @@ source venv/bin/activate   # or venv\Scripts\activate on Windows
 pip install -r requirements.txt
 
 ## Run the UI
-bash
-Copy
-Edit
 python trade_ui.py
+
 This will open the trading simulation window.
 
 ## Contact
